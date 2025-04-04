@@ -313,6 +313,9 @@ function App() {
                 </a>
               </div>
             </div>
+            <div>
+              <img src="footer.jpg" alt="logo" className="w-full h-full object-contain" />
+            </div>
           </div>
           <div className="text-center text-white/70 text-sm">
             <div className="flex items-center justify-center space-x-1">
